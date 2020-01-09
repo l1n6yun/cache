@@ -1,0 +1,18 @@
+{
+    "name": "l1n6yun/cache",
+    "description": "A simple PHP class for caching",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "l1n6yun",
+            "email": "l1n6yun@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "L1n6yun\\Cache\\": "src"
+        }
+    }
+}
